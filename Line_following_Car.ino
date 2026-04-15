@@ -1,11 +1,11 @@
 //ARDUINO LINE FOLLOWER CAR USING L298N MOTOR DRIVE
 
-int ENA = 9; //ENA connected to digital pin 9
-int ENB = 3; //ENB connected to digital pin 3
-int MOTOR_A1 = 7; // MOTOR_A1 connected to digital pin 7
-int MOTOR_A2 = 6; // MOTOR_A2 connected to digital pin 6
-int MOTOR_B1 = 5; // MOTOR_B1 connected to digital pin 5
-int MOTOR_B2 = 4; // MOTOR_B2 connected to digital pin 4
+int ENA = 3; //ENA connected to digital pin 9
+int ENB = 5; //ENB connected to digital pin 3
+int MOTOR_A1 = 2; // MOTOR_A1 connected to digital pin 7
+int MOTOR_A2 = 4; // MOTOR_A2 connected to digital pin 6
+int MOTOR_B1 = 6; // MOTOR_B1 connected to digital pin 5
+int MOTOR_B2 = 7; // MOTOR_B2 connected to digital pin 4
 
 
 int RIGHT = A0; // RIGHT sensor connected to analog pin A0
